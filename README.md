@@ -36,17 +36,12 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 <img width="1883" height="878" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/141e5f50-00fb-42a3-ac6a-674451163604" />
 
 
----
-
 ## 📧 Contact
 - Email: pawanigupta0@gmail.com  
 - GitHub: https://github.com/Pawani05  
 
----
 
 ## ✨ About Me
 I am a BCA student with a strong interest in web development and programming. I enjoy building real-world projects and continuously improving my technical skills.
-
----
 
 ⭐ If you like this project, feel free to star the repository!
